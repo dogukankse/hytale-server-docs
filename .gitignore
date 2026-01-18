@@ -1,0 +1,27 @@
+# Hytale Server Docs - GitBook
+
+# JAR files (do not commit)
+jar/
+*.jar
+
+# Build output and dependencies
+
+# GitBook build output
+gitbook/_book/
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# jars
+*.jar

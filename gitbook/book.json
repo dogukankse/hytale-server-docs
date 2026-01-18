@@ -1,0 +1,46 @@
+{
+    "title": "Hytale Server API Documentation",
+    "description": "Complete API documentation for Hytale Server plugin development",
+    "author": "Hytale Plugin Developers",
+    "language": "en",
+    "gitbook": ">=3.0.0",
+    "links": {
+        "sidebar": {
+            "GitHub Repository": "https://github.com"
+        }
+    },
+    "plugins": [
+        "search",
+        "highlight",
+        "sharing",
+        "fontsettings",
+        "theme-default"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "twitter"
+            ]
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 56,
+            "bottom": 56
+        }
+    }
+}
