@@ -1,4 +1,4 @@
-# Combat API
+# Combat System
 
 This section details the API classes related to weapons, equipment, and combat mechanics.
 
@@ -34,7 +34,7 @@ Handles mechanics for "charge-up" or "draw" weapons like **Bows** and **Crossbow
 *   **Functionality**:
     *   Manages the pullback state and duration.
     *   Likely handles the "Reload" state logic for crossbows.
-*   **Reference**: [ItemPullbackConfig Method Signatures](api-reference/method-signatures/server-items.md#itempullbackconfig)
+*   **Reference**: [ItemPullbackConfig Method Signatures](../api-reference/method-signatures/server-items.md#itempullbackconfig)
 
 ### `LaunchProjectileInteraction`
 **Package**: `com.hypixel.hytale.server.core.modules.interaction.interaction.config.server`
@@ -43,4 +43,4 @@ Interaction config used to fire projectiles. This is the core mechanic for **Ran
 
 *   **Key Methods**:
     *   `getBallisticData()`: Returns `BallisticData` for physics.
-*   **Reference**: [LaunchProjectileInteraction Signatures](api-reference/method-signatures/server-interactions.md#launchprojectileinteraction)
+*   **Reference**: [LaunchProjectileInteraction Signatures](../api-reference/method-signatures/server-interactions.md#launchprojectileinteraction)

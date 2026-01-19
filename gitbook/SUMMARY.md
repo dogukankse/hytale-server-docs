@@ -25,8 +25,7 @@
 
 * [Overview](api-reference/README.md)
 * [Package Reference](api-reference/packages.md)
-* [Items API](api-reference/items.md)
-* [Combat API](api-reference/combat.md)
+
 * [Method Signatures](api-reference/method-signatures/README.md)
     * [Event System](api-reference/method-signatures/event-system.md)
     * [Component System (ECS)](api-reference/method-signatures/component-system.md)
@@ -55,6 +54,7 @@
 * [Block System](guides/block-system.md)
 * [Entity System](guides/entity-system.md)
 * [Item System](guides/item-system.md)
+* [Combat System](guides/combat-system.md)
 * [World System](guides/world-system.md)
 * [Player System](guides/player-system.md)
 * [Particles & Effects](guides/particles-effects.md)
