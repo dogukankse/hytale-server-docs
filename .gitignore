@@ -6,6 +6,9 @@ jar/
 
 # Build output and dependencies
 
+# Legacy docs folder
+docs/
+
 # GitBook build output
 gitbook/_book/
 
