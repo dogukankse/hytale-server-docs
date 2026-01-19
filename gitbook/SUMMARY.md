@@ -25,6 +25,8 @@
 
 * [Overview](api-reference/README.md)
 * [Package Reference](api-reference/packages.md)
+* [Items API](api-reference/items.md)
+* [Combat API](api-reference/combat.md)
 * [Method Signatures](api-reference/method-signatures/README.md)
     * [Event System](api-reference/method-signatures/event-system.md)
     * [Component System (ECS)](api-reference/method-signatures/component-system.md)
@@ -41,6 +43,8 @@
     * [Protocol - Camera](api-reference/method-signatures/protocol-camera.md)
     * [Protocol - Particles](api-reference/method-signatures/protocol-particles.md)
     * [Utilities](api-reference/method-signatures/utilities.md)
+    * [Server - Items](api-reference/method-signatures/server-items.md)
+    * [Server - Interactions](api-reference/method-signatures/server-interactions.md)
 
 ## Development Guides
 
