@@ -1,11 +1,25 @@
 # Summary
 
 * [Introduction](README.md)
+* [FAQ](faq.md)
 
 ## Getting Started
 
 * [Overview](getting-started/README.md)
 * [Quick Start Guide](getting-started/quick-start.md)
+
+## Server Administration
+
+* [Overview](server-administration/README.md)
+* [Setup Guide](server-administration/setup.md)
+* [Configuration](server-administration/configuration.md)
+* [Commands & Permissions](server-administration/commands.md)
+
+## Content Creation
+
+* [Overview](content-creation/README.md)
+* [Blocks & Items](content-creation/blocks-items.md)
+* [Modeling & Animation](content-creation/modeling.md)
 
 ## API Reference
 

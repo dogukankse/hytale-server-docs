@@ -126,3 +126,8 @@ Plugin Hook Points
 ## 📄 License
 
 This documentation is generated from Hytale Server binaries. The Hytale server and its APIs are property of Hypixel Studios. This documentation is for educational and development purposes.
+
+## Credits
+
+Special thanks to **Britakee Studios** for their comprehensive [Hytale Modding Documentation](https://britakee-studios.gitbook.io/hytale-modding-documentation), which served as a primary source for the Server Administration and Content Creation guides.
+
